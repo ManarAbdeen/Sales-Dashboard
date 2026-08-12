@@ -42,6 +42,8 @@ The dataset comprises **1,000 transaction records** with key features including:
 * **Payment Method:** Payment type (`Ewallet`, `Cash`, `Credit card`).
 * **Rating:** Customer satisfaction score (scale 1–10).
 
+🔗 **Dataset Source:** You can view and download the raw dataset directly from [Supermarket Sales Dataset](https://github.com/ManarAbdeen/Sales-Dashboard/blob/main/supermarket_sales%20-%20Sheet1%20(1).csv).
+
 ---
 
 ## 🛠️ Tools & Technologies
@@ -50,8 +52,3 @@ The dataset comprises **1,000 transaction records** with key features including:
 * **Data Wrangling:** Data cleaning, attribute transformation, and formatting.
 
 ---
-
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/supermarket-sales-analysis.git](https://github.com/your-username/supermarket-sales-analysis.git)
